@@ -1,13 +1,6 @@
 {
-  "expo": {
-    "scheme": "acme",
-    "web": {
-      "bundler": "metro"
-    },
-    "plugins": [
-      "expo-router"
-    ],
-    "name": "reactApp",
-    "slug": "reactApp"
-  }
+  "scheme": "your-app-scheme",
+  "plugins": [
+    "expo-router"
+  ]
 }

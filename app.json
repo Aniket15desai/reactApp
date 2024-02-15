@@ -1,0 +1,6 @@
+{
+  "scheme": "your-app-scheme",
+  "plugins": [
+    "expo-router"
+  ]
+}
